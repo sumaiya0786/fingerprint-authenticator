@@ -15,7 +15,7 @@ This is a simple frontend demo that uses **WebAuthn (Web Authentication API)** t
 - CSS (Bootstrap)
 - JavaScript (WebAuthn API)
 
-## 🧠 How It Works
+##  How It Works
 
 1. User enters email and username, clicks "Register Fingerprint".
 2. Browser asks for fingerprint/biometric access.
