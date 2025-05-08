@@ -44,6 +44,6 @@ This is a simple frontend demo that uses **WebAuthn (Web Authentication API)** t
 
 ##  Author
 
-Made by [Your Name Here] as a WebAuthn learning project.
+Made by [Sumaiya Shabab] as a WebAuthn learning project.
 
 
